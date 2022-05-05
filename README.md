@@ -11,7 +11,7 @@
 
 ### Project Goals
 
-To create a Landing Page for the Client (Epson) regarding Optimum Claim, using HTML, Epson framework CSS. 
+To create a Landing Page for the Client (Epson) regarding Optimum Claim, using HTML, Epson framework CSS for the ZA market (South Africa). 
 
 ### Design Choices
 
